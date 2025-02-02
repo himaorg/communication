@@ -1,5 +1,5 @@
 # 素の状態ではコミュニケーションが出来ない人が出来るようになるまでのロードマップを作る
-
+## 会話構築
 - 会話を始める方法
     - 会話の導線を作る
         - 布石を打つ
@@ -73,3 +73,52 @@
 
 - 会話を終わらせる方法
 
+
+## 論理構築
+### 論理のカミソリ
+参照[https://www.youtube.com/watch?v=PEbRlW4TX0Y&t=109s]
+
+## 情緒構築
+### 感情のパターン
+喜び
+信頼
+恐れ
+驚き
+悲しみ
+嫌悪
+怒り
+期待
+参照[https://www.youtube.com/watch?v=aAKudU8GY78]
+
+## 感覚構築
+理解
+視覚
+聴覚
+伝達
+感情
+参照[https://www.youtube.com/watch?v=ysVnpmcfU_s]
+
+## 衝動性構築
+忍耐欠如
+熟考欠如
+刺激希求
+負の切迫性
+正の切迫性
+参照[https://www.youtube.com/watch?v=lrmYgjDjbsc&t=384s]
+
+## 問題解決手法
+問題焦点型コーピング
+認知的再評価型コーピング
+気晴らし型コーピング
+情動焦点型コーピング
+社会的支援探索型コーピング
+参照[https://www.youtube.com/watch?v=WBfyU9Xhf58]
+
+## ストレス耐性
+感知能力
+回避能力
+処理能力
+転換能力
+経験
+容量
+参照[https://www.youtube.com/watch?v=WBfyU9Xhf58]
